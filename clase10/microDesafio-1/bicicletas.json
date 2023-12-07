@@ -1,0 +1,39 @@
+[
+    {
+          "id": 1,
+          "marca": "Fierce",
+          "modelo": "FM18SI29AM211",
+          "rodado": 29,
+          "añoFabricacion": 2020,
+          "color": "Celeste",
+          "peso": 15,
+          "tipo": "Montañera",
+          "precio": 100000,
+          "vendida": "si"
+        },
+        {
+            "id": 2,
+            "marca": "Olmo",
+            "modelo": "FM18SI29AM211",
+            "rodado": 26,
+            "añoFabricacion": 2021,
+            "color": "Blanca",
+            "peso": 16,
+            "tipo": "Triatlon",
+            "precio": 90000,
+            "vendida": "si"
+          },
+          {
+            "id": 3,
+            "marca": "Shifter",
+            "modelo": "FM18SI29AM211",
+            "rodado": 28,
+            "añoFabricacion": 2022,
+            "color": "Negra",
+            "peso": 17,
+            "tipo": "Paseo",
+            "precio": 60000,
+            "vendida": "no"
+          }
+
+    ]
